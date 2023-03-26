@@ -14,5 +14,5 @@ int main(int argc, char const *argv[])
 
     printf("check digit is : %d", 9 - ((total - 1) % 10));
 
-    return 0;
+        return 0;
 }
